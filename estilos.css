@@ -1,0 +1,96 @@
+h2.box{
+    font-size: 30px;
+    color: #ff0202;  
+    background-color: #252525;
+}
+.jon{
+    font-size: 30px;
+    color: #ff0202;  
+    background-color: #252525;
+}
+h1{
+    font-size: 40px;
+    color: rgba(240, 14, 14, 0.979);
+    font-family: 'Patua One', cursive;
+    margin: 30px;
+}
+p.box{
+    font-size: 20px;
+    background-color: #0004ff;
+    padding: 50px;
+    width: 60%;
+    color: #ece3e3;
+}
+h2.cat{
+    font-size: 30px;
+    color: #ff0202;
+    background-color: #252525;
+}
+ul.cat{
+    font-size: 20px;
+    background-color: #0004ff;
+    padding: 50px;
+    width: 25%;
+    margin: 1px;
+    color: #ece3e3;
+}
+ul.caract{
+    font-size: 20px;
+    background-color: #0004ff;
+    padding: 50px;
+    width: 50%;
+    margin: 1px;
+    color: #ece3e3;
+}
+section.padre{
+    display: flex;
+}
+li{
+    margin-bottom: 20px;
+}
+ul.reglas{
+    font-size: 20px;
+    background-color: #0004ff;
+    padding: 40px;
+    width: 55%;
+    margin: 1px;
+    color: #ece3e3;
+}
+.nav-enlace{
+    background: #0004ff;
+    color: rgb(243, 241, 241);
+    padding: 10px 30px;
+    display: inline-block;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    background: #f30303;
+}
+nav{
+    background: black;
+    padding: 10px 5px;    
+    justify-content: space-around;
+    margin-bottom: -25px;
+}
+.muhammad{
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    text-align: center;
+}
+.columna{
+    background: #0004ff;
+    border: 2px solid #000000;
+    color: #fdfbfb;
+    padding: 5px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #f30303;
+}
+.jeje{
+    background-color: black;
+}
+.jaja{
+    font-family: 'Lora', serif;
+    margin: 10px;
+}
